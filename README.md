@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # vcap — Layered Video Capture
 
 A C++ tool that captures video playing in a web browser using three progressively more robust methods, falling back automatically when a faster method fails.
